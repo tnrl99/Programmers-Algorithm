@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.*;
 
-class Solution {
+class IdCheck {
 	public String solution(String new_id) {
         String answer = "";
         
